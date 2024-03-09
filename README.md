@@ -62,8 +62,8 @@ Run the install script:
 
  :man: **Francisco Chaves** - *Initial work* 
  * :octocat: Github: [@franciscojsc](https://github.com/franciscojsc)
- * :link: Website: [https://franciscochaves.com](https://franciscochaves.com)
- * :email: Email: contato@franciscochaves.com
+ * :link: Website: [https://franciscochaves.com.br](https://franciscochaves.com.br)
+ * :email: Email: contato@franciscochaves.com.br
  
 ## License 
 
