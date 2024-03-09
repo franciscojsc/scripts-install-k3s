@@ -4,9 +4,9 @@ This repository is intended to provide initial Kubernetes cluster configurations
 
 ## Screenshot :camera:
 
-![k3s-master-script](https://user-images.githubusercontent.com/13373569/70770138-fdbc8f80-1d4a-11ea-8690-f7048b6cce7c.png "Install master node")  
+![k3s-master-script](screenshot-k3s-master.png "Install master node")  
 
-![k3s-worker-script](https://user-images.githubusercontent.com/13373569/70770154-0ad97e80-1d4b-11ea-86e4-d323d67940c2.png "Install worker node")
+![k3s-worker-script](screenshot-k3s-worker.png "Install worker node")
 
 ## Getting Started :rocket: :running: :walking:
 
@@ -76,4 +76,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 * [Will it cluster? k3s on your Raspberry Pi](https://blog.alexellis.io/test-drive-k3s-on-raspberry-pi)
 * [How to conditionally do something if a command succeeded or failed](https://unix.stackexchange.com/questions/22726/how-to-conditionally-do-something-if-a-command-succeeded-or-failed)
 * [Ascii art generetor](http://patorjk.com/software/taag/)
-
